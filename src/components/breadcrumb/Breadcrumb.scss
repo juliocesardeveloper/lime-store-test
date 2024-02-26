@@ -1,0 +1,9 @@
+@import '../../styles.scss';
+
+.breadcrumb--container {
+  font-size: 12px;
+  margin: 1rem;
+  @include mobile() {
+    padding-left: 2rem;
+  }
+}

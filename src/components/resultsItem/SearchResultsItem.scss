@@ -1,0 +1,16 @@
+.results-item--container {
+  border-bottom: 1.5px solid rgb(238, 238, 238);
+  padding: 1rem;
+}
+
+.results-item--subContainer {
+  display: flex;
+  color: rgba(0,0,0,.8980392157);
+}
+
+.results-item--props {
+  p {
+    margin: 0;
+    margin-bottom: 0.5rem;
+  }
+}

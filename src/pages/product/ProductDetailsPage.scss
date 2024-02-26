@@ -1,0 +1,12 @@
+@import '../../styles.scss';
+
+.product-main--container {
+  color: rgba(0,0,0,.8980392157);
+  margin: auto;
+  padding: 1rem;
+  width: 70%;
+  @include mobile() {
+    padding: 0;
+    width: 100%;
+  }
+}

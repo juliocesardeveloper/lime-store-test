@@ -1,0 +1,22 @@
+@import '../../styles.scss';
+
+.results-main--container {
+  color: rgba(0,0,0,.8980392157);
+  margin: auto;
+  padding: 1rem;
+  width: 70%;
+  @include mobile() {
+    flex-direction: column;
+    padding: 1rem 0;
+    width: 100%;
+  }
+  p {
+    @include mobile() {
+      margin-left: 2rem;
+    }
+  }
+}
+
+.results-items--container {
+  background-color: #fff;
+}
