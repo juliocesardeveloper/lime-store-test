@@ -10,7 +10,7 @@ Desde la terminal y teniendo en cuenta que estas en la raíz del proyecto.
 2. ```npm i``` o ```npm install``` para instalar dependencias.
 3. ```npm run dev``` para poner a correr el server.
 
-#### 2. Para correr la palicación:
+#### 2. Para correr la aplicación:
 
 Desde la terminal y teniendo en cuenta que estas en la raíz del proyecto.
 
